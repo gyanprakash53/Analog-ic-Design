@@ -1,0 +1,7 @@
+*.cdslck
+*.cdslck.*
+*.log
+*.raw
+*.psf
+simulation/
+.DS_Store
